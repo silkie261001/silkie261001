@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @silkie261001
+- 🌱 I’m currently learning software and web development
 - 📫 How to reach me https://www.linkedin.com/in/silkie-agarwal/
 - 📫 How to reach me silkieagarwa261001@gmial.com
 
